@@ -1,8 +1,13 @@
 ### Olá! Eu sou o Alessandro Carra Santiago 👋
 
 - 🔭 Hoje trabalho como Técnico em Eletrônica, em busca de uma oportunidade como Desenvolvedor Front-end
-- 🌱 Estudando: Análise e desenvolvimento de sistemas, JavaScript, Html5, Css3
+- 🌱 Estudando: Análise e desenvolvimento de sistemas, JavaScript, Html5, Css3,Java
 - 😄 Pronomes: Ele/Dele
+- 
+- 🔭 Today I work as an Electronics Technician, I'm moving from profession to front-end developer. Looking for an opportunity!
+- 🌱 Studying: Systems Analysis and Development, JavaScript, Html5, CSS3,Java
+- 😄 Pronouns: He / his
+
  <div>
   <a href="https://github.com/AleCarraDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AleCarraDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -13,6 +18,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
