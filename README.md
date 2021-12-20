@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alessandro Carra Santiago 👋
 
-- 🔭 Hoje trabalho como Técnico em Eletrônica, em busca de uma oportunidade como Desenvolvedor Front-end
-- 🌱 Estudando: Análise e desenvolvimento de sistemas, JavaScript, Html5, Css3,Java
+- 🔭 Trabalho como Trainne Desenvolvedor Backend - Grupo Gera
+- 🌱 Estudando: Análise e desenvolvimento de sistemas
 - 😄 Pronomes: Ele/Dele
 - 
 - 🔭 Today I work as an Electronics Technician, I'm moving from profession to front-end developer. Looking for an opportunity!
