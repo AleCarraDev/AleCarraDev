@@ -4,7 +4,7 @@
 - 🌱 Estudando: Análise e desenvolvimento de sistemas
 - 😄 Pronomes: Ele/Dele
 - 
-- 🔭 Today I work as an Electronics Technician, I'm moving from profession to front-end developer. Looking for an opportunity!
+- 🔭 working as a Trainne backend developer
 - 🌱 Studying: Systems Analysis and Development, JavaScript, Html5, CSS3,Java
 - 😄 Pronouns: He / his
 
