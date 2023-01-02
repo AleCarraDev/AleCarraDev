@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Alessandro Carra Santiago 👋
 
-- 🔭 Trabalho como Trainne Desenvolvedor Backend - Grupo Gera
+- 🔭 Trabalho como Desenvolvedor Backend - Grupo Gera
 - 🌱 Estudando: Análise e desenvolvimento de sistemas
 - 😄 Pronomes: Ele/Dele
 - 
-- 🔭 working as a Trainne backend developer
+- 🔭 working as a backend developer
 - 🌱 Studying: Systems Analysis and Development, JavaScript, Html5, CSS3,Java
 - 😄 Pronouns: He / his
 
